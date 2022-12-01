@@ -12,7 +12,7 @@
   - <img src="https://simpleicons.vercel.app/markdown/495f7e" width="20px"/> Markdown lists 😜
 - 📫 How to reach me 
   - <a href="https://twitter.com/kioan"><img src="https://simpleicons.vercel.app/twitter/495f7e" alt="kioan's twitter" width="20px"/> Twitter</a>
-  - <a href="https://mastodon.social/@kioan"><img src="https://simpleicons.vercel.app/mastodon/495f7e" alt="kioan's mastodon" width="20px"/> Mastodon</a>
+  - <a href="https://mastodon.social/@kioan" rel="me"><img src="https://simpleicons.vercel.app/mastodon/495f7e" alt="kioan's mastodon" width="20px"/> Mastodon</a>
 
 
 
